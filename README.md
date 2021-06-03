@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/26278705/120644212-5fa91180-c477-11eb-9e9b-b8fcd525e49d.png" width="300" />
+# <img src="https://user-images.githubusercontent.com/26278705/120645097-55d3de00-c478-11eb-8b9b-6ec866f6c882.png" width="300" />
 
 ## Color Scheme
 * French Violet (deep purple) - #6f2dbd
